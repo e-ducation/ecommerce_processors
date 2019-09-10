@@ -24,7 +24,7 @@ logger = logging.getLogger(__name__)
 
 class WechatPay(BasePaymentProcessor):
 
-    NAME = 'ecommerce_processors.processors.wechatpay'
+    NAME = 'ecommerce_processors.processors.wechatpay.WechatPay'
     DEFAULT_PROFILE_NAME = 'default'
 
     def __init__(self, site):
