@@ -75,7 +75,8 @@ Tools used in rendering this package:
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
 .. _`cookiecutter-djangopackage`: https://github.com/pydanny/cookiecutter-djangopackage
 
-## 记录
+记录
+-------
 https://github.com/e-ducation/ecommerce
 
 目前来说，这个django_app装上后，在ecommerce的setting的processor_list添加对应的后，可以摸到并且得以运行的。但是无法脱离我们的ecommerce运行,原因如下：
